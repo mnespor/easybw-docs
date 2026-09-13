@@ -24,3 +24,6 @@ Select the Easy B&W extension.
 
 ![extensions menu](resources/extensions-2.png)
 
+### Support
+
+This product is offered as-is without warranty of any kind, express or implied. If you have a question or suggestion, please reach out to me at horizon.five.software at gmail.com and I'll do my best to respond.
